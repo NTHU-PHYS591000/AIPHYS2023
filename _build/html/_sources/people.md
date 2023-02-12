@@ -24,9 +24,9 @@ Teaching Staff
         <tr>
             <td style="text-align:center" width="300">
 
-![MISam](/images/portrait-Chung.png)
+![MISam](/images/MISam.png)
 
-<a href="funfunfunghisss@gmail.com"><u>Yi-Lun (Alan) Chung</u></a>
+<a href="funfunfunghisss@gmail.com"><u>Mei Ian Sam</u></a>
 <br>
 岑美茵
 <br>
@@ -35,7 +35,7 @@ funfunfunghisss@gmail.com
             
 <td style="text-align:center" width="200">
 
-![KYHsiao](/images/portrait-CJLi.png)
+![KYHsiao](/images/KYHsiao.png)
 
 <a href="superwesly123@gmail.com"><u>Ko-Yang Hsiao</u></a>
 <br>
