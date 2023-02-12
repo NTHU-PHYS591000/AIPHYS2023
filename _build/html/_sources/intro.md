@@ -1,4 +1,4 @@
-Welcome to 11020PHYS591000
+Welcome to PHYS591000 2023
 ============================
 
 <font size="+2">
@@ -7,7 +7,7 @@ Hands-on Artificial Intelligence for Physics
 物理與人工智慧(AI) 實作導論
 </font>
 
-Spring 2022
+Spring 2023
 
 National Tsing Hua University
 

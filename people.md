@@ -24,24 +24,24 @@ Teaching Staff
         <tr>
             <td style="text-align:center" width="300">
 
-![YIChung](/images/portrait-Chung.png)
+![MISam](/images/portrait-Chung.png)
 
-<a href="s107022801@m107.nthu.edu.tw"><u>Yi-Lun (Alan) Chung</u></a>
+<a href="funfunfunghisss@gmail.com"><u>Yi-Lun (Alan) Chung</u></a>
 <br>
-鍾沂倫
+岑美茵
 <br>
-s107022801@m107.nthu.edu.tw
+funfunfunghisss@gmail.com
 </td>
             
 <td style="text-align:center" width="200">
 
-![CJLi](/images/portrait-CJLi.png)
+![KYHsiao](/images/portrait-CJLi.png)
 
-<a href="sips50333@gmail.com"><u>Chiau Jou Li</u></a>
+<a href="superwesly123@gmail.com"><u>Ko-Yang Hsiao</u></a>
 <br>
-李巧柔
+蕭科洋
 <br>
-sips50333@gmail.com
+superwesly123@gmail.com
 </td>
         </tr>
 </table>

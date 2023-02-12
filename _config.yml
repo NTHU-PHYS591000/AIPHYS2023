@@ -1,9 +1,11 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: PHYS591000 Hands-on AI for Physics 2022
+title: PHYS591000 Hands-on AI for Physics 2023
 author: Pai-Hsien Hsu
 logo: NTHU_logo.png
+copyright: "2023"  # Copyright year to be placed in the footer
+
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -21,7 +23,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/NTHU-PHYS591000/AIPHYS2022
+  url: https://github.com/NTHU-PHYS591000/AIPHYS2023
   path_to_book: docs  # Optional path to your book, relative to the repository root
   branch: master  # Which branch of the repository should be used when creating links (optional)
 

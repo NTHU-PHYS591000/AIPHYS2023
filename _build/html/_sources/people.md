@@ -14,36 +14,34 @@ Teaching Staff
 徐百嫻
 </td>
 
-<!-- <td style="text-align:center">
-
-![SCHsu](/images/portrait-SCHsu.png)
-
-<a href="http://faculty.washington.edu/schsu">Shih-Chieh Hsu</a>
-<br>
-徐士傑
-</td>
-        </tr>
-</table> -->
+</tr>
+</table>
 
 
 ## Teaching Assistant
 
-<table border='0' >
+<table border='0'>
         <tr>
-            <td style="text-align:center">
+            <td style="text-align:center" width="300">
 
-![YIChung](/images/portrait-Chung.png)
+![MISam](/images/portrait-Chung.png)
 
-<a href="">Yi-Lun (Alan) Chung</a>
+<a href="funfunfunghisss@gmail.com"><u>Yi-Lun (Alan) Chung</u></a>
 <br>
-鍾沂倫
+岑美茵
+<br>
+funfunfunghisss@gmail.com
 </td>
             
-<td style="text-align:center">
+<td style="text-align:center" width="200">
 
-<!-- ![CJLi](/images/portrait-Li.png) -->
+![KYHsiao](/images/portrait-CJLi.png)
 
-<a href="">Chiau Jou Li</a>
+<a href="superwesly123@gmail.com"><u>Ko-Yang Hsiao</u></a>
 <br>
-李巧柔
+蕭科洋
+<br>
+superwesly123@gmail.com
 </td>
+        </tr>
+</table>

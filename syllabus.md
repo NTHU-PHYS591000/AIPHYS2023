@@ -20,8 +20,8 @@ Students will learn how to apply the state-of-the-art AI and data science tools 
 * Final project
   * Apply machine learning techniques on data provided by instructors
 
-* For in-class exercise and labs: work in groups of two assigned by instructors; rotate every week.
-  * Submit one homework for two people
+* For in-class exercise and labs: work in groups of three assigned by instructors; rotate every week.
+  * Submit one homework for three people
 
 
 * For final project: find your own teammate (2 people/team). 
@@ -34,12 +34,13 @@ Students will learn how to apply the state-of-the-art AI and data science tools 
 
 ## Logistics
 
-* Course: 11020PHYS591000, National Tsing hua University
-* Lecture Time:  10:10-11:00 Wed
-* In-class exercise/Lab Time: 11:10-13:00 Wed
-* Location: General Building II (綜二）R521
+* Course: 11120PHYS591000, National Tsing hua University
+* Lecture Time:  10:10-11:00 Thu
+* In-class exercise/Lab Time: 11:10-13:00 Thu
+* Location: Phys Building Room 208
 * Total People: 24
 * Credit: 3 credits, graded
+
 
 ## Requirements
 * Basic Computer Science and Programming Skills (Python preferred)
@@ -52,18 +53,14 @@ Students will learn how to apply the state-of-the-art AI and data science tools 
 * Class Participation - 10%
 * Lab/Homework - 60%
   * 10-12 sets of assignments
-  * Due: Noon on Fridays (No late submissions)
+  * Due: Noon on Saturdays (No late submissions)
 * Final Project - 30%
   * Oral presentation: 15%
-  * Final project results: 10%
-  * Kaggle competition: 5%
+  * Final project results: 15%
 
 * ```Note: 10 points (10% of final grades) off for absence without permission for the following events```
-  * Guest lecture (Week 15 05/25; TBC)
-  * Final project discussions (Week 16 06/01)
-  * Final project oral presentations (Week 17 06/08)
-
-
+  * Final project discussions (Week 16 05/31)
+  * Final project oral presentations (Week 17 06/07)
 
 <!-- ## Project
 
