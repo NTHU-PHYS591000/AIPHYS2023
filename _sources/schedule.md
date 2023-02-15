@@ -3,7 +3,7 @@ Schedule
 
 |Date|Week|Topic|Lab|
 |--|--|--|--|
-|02/16|01|[Introduction]()||
+|02/16|01|[Introduction](https://docs.google.com/presentation/d/1ztatFEZ_ghIF0ZdmfZVsvGJzaGIakfWofVq5JZtI838/edit#slide=id.p)|[Lab01](https://www.kaggle.com/competitions/phys591000-2023-week01/overview)|
 |02/23|02|TBA||
 |03/02|03|TBA||
 |03/09|04|TBA||
