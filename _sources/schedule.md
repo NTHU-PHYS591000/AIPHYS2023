@@ -1,23 +1,23 @@
 Schedule
 ============================
 
-|Date|Week|Topic|Lab|
-|--|--|--|--|
-|02/16|01|[Introduction](https://docs.google.com/presentation/d/1ztatFEZ_ghIF0ZdmfZVsvGJzaGIakfWofVq5JZtI838/edit#slide=id.p)|[Lab01](https://www.kaggle.com/competitions/phys591000-2023-week01/overview)|
-|02/23|02|TBA||
-|03/02|03|TBA||
-|03/09|04|TBA||
-|03/16|05|TBA||
-|03/23|06|TBA||
-|03/30|07|TBA||
-|04/06|08|Spring break (no class)|---|
-|04/13|09|TBA||
-|04/20|10|TBA||
-|04/27|11|TBA||
-|05/04|12|TBA||
-|05/11|13|TBA||
-|05/18|14|TBA||
-|05/25|15|TBA||
-|06/01|16|TBA||
-|06/08|17|TBA||
-|06/15|18|TBA||
+|Date|Week|Topic|In class|In class answer|Lab|
+|--|--|--|--|--|--|
+|02/16|01|[Introduction](https://docs.google.com/presentation/d/1ztatFEZ_ghIF0ZdmfZVsvGJzaGIakfWofVq5JZtI838/edit#slide=id.p)|[In class 01](https://www.kaggle.com/code/nthuaiphys2021/2023-inclass-01/edit/run/119115460)||[Lab 01](https://www.kaggle.com/competitions/phys591000-2023-week01/overview)|
+|02/23|02|[Classification](https://docs.google.com/presentation/d/1G4fdyiOR_eTJnFqFmA6jP2L8XhsVr2n1844SBcrIoTE/edit#slide=id.gc40c71273a_0_0)|[In class 02](https://www.kaggle.com/code/nthuaiphys2021/2023-inclass-02)|[In class answer 02]()|[Lab 02]()|
+|03/02|03|TBA||||
+|03/09|04|TBA||||
+|03/16|05|TBA||||
+|03/23|06|TBA||||
+|03/30|07|TBA||||
+|04/06|08|Spring break (no class)|---|||
+|04/13|09|TBA||||
+|04/20|10|TBA||||
+|04/27|11|TBA||||
+|05/04|12|TBA||||
+|05/11|13|TBA||||
+|05/18|14|TBA||||
+|05/25|15|TBA||||
+|06/01|16|TBA||||
+|06/08|17|TBA||||
+|06/15|18|TBA||||
