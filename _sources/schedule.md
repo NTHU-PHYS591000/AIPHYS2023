@@ -4,8 +4,8 @@ Schedule
 |Date|Week|Topic|In class|In class answer|Lab|
 |--|--|--|--|--|--|
 |02/16|01|[Introduction](https://docs.google.com/presentation/d/1ztatFEZ_ghIF0ZdmfZVsvGJzaGIakfWofVq5JZtI838/edit#slide=id.p)|[In class 01](https://www.kaggle.com/code/nthuaiphys2021/2023-inclass-01/edit/run/119115460)||[Lab 01](https://www.kaggle.com/competitions/phys591000-2023-week01/overview)|
-|02/23|02|[Classification](https://docs.google.com/presentation/d/1G4fdyiOR_eTJnFqFmA6jP2L8XhsVr2n1844SBcrIoTE/edit#slide=id.gc40c71273a_0_0)|[In class 02](https://www.kaggle.com/code/nthuaiphys2021/2023-inclass-02)|[In class answer 02]()|[Lab 02](https://www.kaggle.com/t/fcf7bfb919804b1dbb650284d04e5fd1)|
-|03/02|03|TBA||||
+|02/23|02|[Classification](https://docs.google.com/presentation/d/1G4fdyiOR_eTJnFqFmA6jP2L8XhsVr2n1844SBcrIoTE/edit#slide=id.gc40c71273a_0_0)|[In class 02](https://www.kaggle.com/code/nthuaiphys2021/2023-inclass-02)|[In class answer 02](https://www.kaggle.com/code/nthuaiphys2021/2023-inclass-02-answer/notebook)|[Lab 02](https://www.kaggle.com/t/fcf7bfb919804b1dbb650284d04e5fd1)|
+|03/02|03|[Regression](https://docs.google.com/presentation/d/1Y7QwLfumQklR6GUEYWMIQPNi5lnvLtfu3Q2mExrZNJ8/edit#slide=id.gc40c71273a_0_0)|[In class 03](https://www.kaggle.com/code/nthuaiphys2021/2023-inclass-03/notebook)|[In class answer 03]|[Lab 03]|
 |03/09|04|TBA||||
 |03/16|05|TBA||||
 |03/23|06|TBA||||
