@@ -11,7 +11,7 @@ Schedule
 |03/23|06|[NN Intro.](https://docs.google.com/presentation/d/1yoHjqB5DxlbNmoAIiR0pP6H_RfuhIEh_EbcVoxkowuo/edit#slide=id.gc40c71273a_0_0)|[Link](https://www.kaggle.com/code/nthuaiphys2021/2023-inclass-06/notebook)|[Link]()|[Link](https://www.kaggle.com/t/a5c917d97f9c45a896102c0e32baa87e)||
 |03/30|07|[NN II](https://docs.google.com/presentation/d/1_2fKrSh76opYxJEIKYUHc7EWAdZja9_4dAYGSDdYb8o/edit#slide=id.gc40c71273a_0_0)|[Link]()|[Link]()|[Link](https://www.kaggle.com/t/34ed224739cd4dadba702d3d18a34942)|[Final Project](https://docs.google.com/presentation/d/1sqn84FI7aHagR-f1hWKQL11ZQYgO-AK90azWVerTxjI/edit#slide=id.gf3bab43c99_0_0)|
 |04/06|08|Spring break (no class)|---||||
-|04/13|09|TBA|||||
+|04/13|09|[CNN](https://docs.google.com/presentation/d/1Vl4RPNgymEwNN4kr6GPLWIFK0mKxKTjKvw3AcP4QZe8/edit#slide=id.gc40c71273a_0_0)|[Link](https://www.kaggle.com/code/nthuaiphys2021/2023-inclass-09)|[Link]()|[Link](https://www.kaggle.com/t/7e80d87423b9472b819b487a5f041842)||
 |04/20|10|TBA|||||
 |04/27|11|TBA|||||
 |05/04|12|TBA|||||
