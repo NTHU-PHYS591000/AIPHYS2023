@@ -17,7 +17,7 @@ Schedule
 |05/04|12|[VAE](https://docs.google.com/presentation/d/1PdbyDOnMIKo-4LgKqkoKiUDnWY1d4mo0qv1Fi9PsUAA/edit#slide=id.gc40c71273a_0_0)|[Link](https://www.kaggle.com/code/nthuaiphys2021/2023-inclass-12/notebook)|[Link](https://www.kaggle.com/code/nthuaiphys2021/2023-inclass-12-temp/settings)|[Link](https://www.kaggle.com/t/7c1e889f29134cfba0788495d32820ef)||
 |05/11|13|[GAN](https://docs.google.com/presentation/d/14sEQ0Oo3HeQW5D4suVlAGQDI0vVbfjGN-dbRm5YtPtY/edit#slide=id.gc40c71273a_0_0)|[Link](https://www.kaggle.com/code/nthuaiphys2021/2023-inclass-13/notebook)|[Link](https://www.kaggle.com/code/nthuaiphys2021/2023-inclass-13-answer/notebook)|[Link](https://www.kaggle.com/t/dfbb890155e74098b2700d0d1d0c2cc4)||
 |05/18|14|[Final Remark](https://docs.google.com/presentation/d/1FrMdKYLp7jdiFDbnfWl23tuU7N5vpeekX5_a923tTSE/edit#slide=id.gf3bab43c99_0_0)|||||
-|05/25|15|TBA|||||
+|05/25|15|[Special Talk](https://docs.google.com/presentation/d/1Y0vmil3HIdXNY90Z0OAiujY_KBekrCxj1SG5T6s9xa8/edit)|||||
 |06/01|16|TBA|||||
 |06/08|17|TBA|||||
 |06/15|18|TBA|||||
